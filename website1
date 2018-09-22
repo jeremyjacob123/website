@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html> 
 	<head>
 		<title>Luigi's Pizzeria</title>
@@ -45,8 +46,8 @@
            <center><h2> Directions</h2></center>
 <p align="right"><strong>From Eastern Long Island:</strong> </p>	 
 <p align="left"><strong>From Western Long Island:</strong> </p>
-<p align="right">Take LIE Westbound to exit 49, then make a right on Patricia street and we're there. </p>
-<p align="left">Take LIE Eastbound to exit 53, then turn left at Woodword street then turn left on Angelica street.</p>
+<p align="right">Take LIE Westbound to exit 49, then make a right on Patricia Street and we're there. </p>
+<p align="left">Take LIE Eastbound to exit 53, then turn left at Woodword Ave. then turn left on Angelica Street.</p>
  
           		 
            
