@@ -1,6 +1,64 @@
 <html> 
-  <head>
-    <title> title </title>
-   
-  </head>
- </html>
+	<head>
+		<title>Luigi's Pizzeria</title>
+	</head>
+    
+		<body>
+			<center><h1> Welcome to Luigi's Pizzeria!</h1></center>
+           	<center> <p> <i> Even Mama would be proud! </i> </p></center>
+
+           				<center><h2> About us:</h2></center>
+         <p>In 1976, when Luigi Lombardi first moved to Long Island, he saw no true authentic pizzarias that 				served good, classic Pizza. He saved up all his money and invested it into a shop down in Melville. Because of his hardwork and dedication, he has made the resturant we know and love. Our mission here at <i> Luigi's Pizzeria </i>is to make the perfect slice of Pizza in New York, that even your <i>Mama</i> would love!</p>
+         
+         
+           			<center><h2>Our Menu:</h2></center>
+           			<center><h3>Pizza's</h3></center>
+           <ul>
+           <li><strong>"Luigi's"classic:</strong><i> Classic and perfect slice of authentic Pizza (15.99)</i></li>
+      	   <li><strong>"Luigi's" Sicilian Pizza:</strong><i> A thick crusted and rectangular slice of Pizza (16.99)</i></li>
+           <li><strong>"Luigi's" Margherita pizza:</strong><i> Made with Marzano tomatoes, mozzarella fior di latte, fresh basil, salt and extra-virgin olive oil. (15.99)</i></li>
+           <li><strong>"Luigi's" Meat Lovers: </strong><i> Classic Pizza made for carnivores! (17.99)</i></li>			</ul>
+           
+           			<center><h3> Calzones</h3></center>
+           			<ul>
+           <li><strong>"Luigi's" classic Calzone:</strong><i> An oven-baked folded pizza (14.99)</i></li>
+           <li><strong>"Luigi's" Chicken Calzone:</strong><i> An oven-baked folded pizza stuffed with Chicken (15.99)</i></li>
+           <li><strong>"Luigi's" Steak Calzone:</strong><i> An oven-baked folded pizza stuffed with USDA Prime Ribeye (14.99)</i></li>
+           </ul>
+           			<center><h3> Pasta</h3></center>
+           <ul>
+           <li><strong>"Luigi's" classic Spaghetti and Meatballs:</strong><i> Classic noodles served with house made beef Meetballs (14.99)</i></li>
+           <li><strong>"Luigi's" Ravioli Parmigiana:</strong><i> Filled with Ricotta, Lightly Breaded, Fried and Topped with Melted Fresh Mozzarella Served Over a Bed of Plum Tomato Sauce. (16.50)</i></li>
+           <li><strong>"Luigi's" Rigatoni ala Vodka:</strong><i> Prosciutto, Plum Tomatoes and Scallions in a Pink Vodka Sauce (17.99)</i></li>
+           </ul>
+           			<center><h3> Deserts</h3></center>
+                    <ul>
+           
+            <li><strong>"Luigi's" Desert Calzone:</strong><i> Calzone filled with house made chocolate sauce and whipped cream (14.99)</i></li>
+             <li><strong>"Luigi's" Homemade Ice-cream:</strong><i> Classic ice-cream made in store by Luigi himself, Choices of Vanilla, Chocolate, or Coffee. </i></li>
+             </ul>
+             <br> </br>
+             <br> </br>
+             <br> </br>
+             <br> </br>
+             
+           <center><h2> Directions</h2></center>
+<p align="right"><strong>From Eastern Long Island:</strong> </p>	 
+<p align="left"><strong>From Western Long Island:</strong> </p>
+<p align="right">Take LIE Westbound to exit 49, then make a right on Patricia street and we're there. </p>
+<p align="left">Take LIE Eastbound to exit 53, then turn left at Woodword street then turn left on Angelica street.</p>
+ 
+          		 
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+		</body>
+</html>
+
