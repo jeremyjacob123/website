@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html> 
 	<head>
+		<meta charset ="utf-8">
 		<title>Luigi's Pizzeria</title>
 	</head>
     
 		<body>
 			<center><h1> Welcome to Luigi's Pizzeria!</h1></center>
+			<img src ="images/classiccalzone.jpg" alt ="Calzone">
            	<center> <p> <i> Even Mama would be proud! </i> </p></center>
 
            				<center><h2> About us:</h2></center>
