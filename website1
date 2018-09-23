@@ -9,11 +9,20 @@
       <center><h1> Welcome to Luigi's Pizzeria!</h1></center>
       <center><img src="images/logo.png" height="92" width ="92" alt="Logo"> </center>
             <center> <p> <i> Even Mama would be proud! </i> </p></center>
-
+                 <nav>
+  <ul>
+    <li><a href="#aboutus">About us</a></li>
+    <li><a href="#ourmenu">Our Menu</a></li>
+    <li><a href="#directions">Directions</a></li>
+  </ul>
+</nav>
+                  <p id ="aboutus"></p>
+                  
                   <center><h2> About us:</h2></center>
         <p><img src="images/luigi.jpg" height="72" width ="72" alt="Luigi"> In 1976, when Luigi Lombardi first moved to Long Island, he saw no true authentic pizzarias that served good, classic Pizza. He saved up all his money and invested it into a shop down in Melville. Because of his hardwork and dedication, he has made the resturant we know and love. Our mission here at <i> Luigi's Pizzeria </i>is to make the perfect slice of Pizza in New York, that even your <i>Mama</i> would love!</p>
          
-         
+    
+                      <p id ="ourmenu"></p>
                 <center><h2>Our Menu:</h2></center>
                     
                 <center><h3>Pizza's</h3></center>
@@ -36,28 +45,37 @@
                    
             <ul>
             <li><strong>"Luigi's" classic Calzone:</strong><i> An oven-baked folded pizza (14.99)</i></li>
+            <img src="images/calzone.jpg" height="92" width ="92" alt="Calzone"
              <li><strong>"Luigi's" Chicken Calzone:</strong><i> An oven-baked folded pizza stuffed with Chicken (15.99)</i></li>
-            <li><strong>"Luigi's" Steak Calzone:</strong><i> An oven-baked folded pizza stuffed with USDA Prime Ribeye (14.99)</i></li>
+             <img src="images/chickencalzone.jpg" height="92" width ="92" alt="Chicken Calzone"
+            <li><strong>"Luigi's" Steak Calzone:</strong><i> An oven-baked folded pizza stuffed with USDA Prime Ribeye (18.99)</i></li>
+            <img src="images/steakcalzone.jpg" height="92" width ="92" alt="Steak calzone"
           </ul>
                 <center><h3> Pasta</h3></center>
                     <center><h5><i>all toppings 50¢ EACH</i></h5></center>
                     
            <ul>
            <li><strong>"Luigi's" classic Spaghetti and Meatballs:</strong><i> Classic noodles served with house made beef Meetballs (14.99)</i></li>
+           <img src="images/spaghetti.jpg" height="92" width ="92" alt="spaghetti"
            <li><strong>"Luigi's" Ravioli Parmigiana:</strong><i> Filled with Ricotta, Lightly Breaded, Fried and Topped with Melted Fresh Mozzarella Served Over a Bed of Plum Tomato Sauce. (16.50)</i></li>
+           <img src="images/ravioli.jpg" height="92" width ="92" alt="Ravioli"
            <li><strong>"Luigi's" Rigatoni ala Vodka:</strong><i> Prosciutto, Plum Tomatoes and Scallions in a Pink Vodka Sauce (17.99)</i></li>
+           <img src="images/rigatoni.jpg" height="92" width ="92" alt="rigatoni"
            </ul>
                 <center><h3> Deserts</h3></center>
                     <ul>
            
             <li><strong>"Luigi's" Desert Calzone:</strong><i> Calzone filled with house made chocolate sauce and whipped cream (14.99)</i></li>
+            <img src="images/chocolatecalzone.jpg" height="92" width ="92" alt="Desert Calzone"
              <li><strong>"Luigi's" Homemade Ice-cream:</strong><i> Classic ice-cream made in store by Luigi himself, Choices of Vanilla, Chocolate, or Coffee. (6.99)</i></li>
+             <img src="images/icecream.jpg" height="92" width ="92" alt="Ice Cream"
              </ul>
              <br> </br>
              <br> </br>
              <br> </br>
              <br> </br>
              
+             <p id ="directions"></p>
            <center><h2> Directions</h2></center>
 <p align="right"><strong>From Eastern Long Island:</strong> </p>   
 <p align="left"><strong>From Western Long Island:</strong> </p>
