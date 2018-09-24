@@ -31,13 +31,18 @@
                     
            <ul>
              <li><strong>"Luigi's"classic:</strong><i> Classic and perfect slice of authentic Pizza (15.99) </i></li>
-             <img src="images/classicpizza.jpg" height="92" width ="92" alt="Pizza"
+            <img src="images/classicpizza.jpg" height="92" width ="92" alt="Pizza">
+            <br> </br>
             <li><strong>"Luigi's" Sicilian Pizza:</strong><i> A thick crusted and rectangular slice of Pizza (16.99)</i></li>
              <img src="images/sicilian.jpg" height="92" width ="92" alt="Pizza">
+             <br> </br>
              <li><strong>"Luigi's" Margherita pizza:</strong><i> Made with Marzano tomatoes, mozzarella fior di latte, fresh basil, salt and extra-virgin olive oil. (15.99)</i></li>
-             <src="images/margherita.jpg" height="92" width ="92" alt="Pizza">
+             <img src="images/margherita.jpg" height="92" width ="92" alt="Pizza">
+             <br> </br>
             <li><strong>"Luigi's" Meat Lovers: </strong><i> Classic Pizza made for carnivores! (17.99) </i></li>
-            <img src="images/meatlovers.jpg" height="92" width ="92" alt="Pizza">   
+            <img src="images/meatlovers.jpg" height="92" width ="92" alt="Pizza">  
+            <br> </br>
+
            </ul>
            
                 <center><h3> Calzones</h3></center>
@@ -45,30 +50,38 @@
                    
             <ul>
             <li><strong>"Luigi's" classic Calzone:</strong><i> An oven-baked folded pizza (14.99)</i></li>
-            <img src="images/calzone.jpg" height="92" width ="92" alt="Calzone"
+            <img src="images/calzone.jpg" height="92" width ="92" alt="Calzone">
+            <br> </br>
              <li><strong>"Luigi's" Chicken Calzone:</strong><i> An oven-baked folded pizza stuffed with Chicken (15.99)</i></li>
-             <img src="images/chickencalzone.jpg" height="92" width ="92" alt="Chicken Calzone"
+             <img src="images/chickencalzone.jpg" height="92" width ="92" alt="Chicken Calzone">
+             <br> </br>
             <li><strong>"Luigi's" Steak Calzone:</strong><i> An oven-baked folded pizza stuffed with USDA Prime Ribeye (18.99)</i></li>
-            <img src="images/steakcalzone.jpg" height="92" width ="92" alt="Steak calzone"
+            <img src="images/steakcalzone.jpg" height="92" width ="92" alt="Steak calzone">
+            <br> </br>
           </ul>
                 <center><h3> Pasta</h3></center>
                     <center><h5><i>all toppings 50¢ EACH</i></h5></center>
                     
            <ul>
            <li><strong>"Luigi's" classic Spaghetti and Meatballs:</strong><i> Classic noodles served with house made beef Meetballs (14.99)</i></li>
-           <img src="images/spaghetti.jpg" height="92" width ="92" alt="spaghetti"
+           <img src="images/spaghetti.jpg" height="92" width ="92" alt="spaghetti">
+           <br> </br>
            <li><strong>"Luigi's" Ravioli Parmigiana:</strong><i> Filled with Ricotta, Lightly Breaded, Fried and Topped with Melted Fresh Mozzarella Served Over a Bed of Plum Tomato Sauce. (16.50)</i></li>
-           <img src="images/ravioli.jpg" height="92" width ="92" alt="Ravioli"
+           <img src="images/ravioli.jpg" height="92" width ="92" alt="Ravioli">
+           <br> </br>
            <li><strong>"Luigi's" Rigatoni ala Vodka:</strong><i> Prosciutto, Plum Tomatoes and Scallions in a Pink Vodka Sauce (17.99)</i></li>
-           <img src="images/rigatoni.jpg" height="92" width ="92" alt="rigatoni"
+           <img src="images/rigatoni.jpg" height="92" width ="92" alt="rigatoni">
+           <br> </br>
            </ul>
                 <center><h3> Deserts</h3></center>
                     <ul>
            
             <li><strong>"Luigi's" Desert Calzone:</strong><i> Calzone filled with house made chocolate sauce and whipped cream (14.99)</i></li>
-            <img src="images/chocolatecalzone.jpg" height="92" width ="92" alt="Desert Calzone"
+            <img src="images/chocolatecalzone.jpg" height="92" width ="92" alt="Desert Calzone">
+            <br> </br>
              <li><strong>"Luigi's" Homemade Ice-cream:</strong><i> Classic ice-cream made in store by Luigi himself, Choices of Vanilla, Chocolate, or Coffee. (6.99)</i></li>
-             <img src="images/icecream.jpg" height="92" width ="92" alt="Ice Cream"
+             <img src="images/icecream.jpg" height="92" width ="92" alt="Ice Cream">
+             <br> </br>
              </ul>
              <br> </br>
              <br> </br>
